@@ -6,13 +6,17 @@
 For further reference, please consider the following sections:
 
 * 首页
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/45658c6a-a087-419b-a511-6abbae743cb6)
+
 * 任务列表
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/d1dc40e1-dbaf-4eeb-a425-42a888e16fed)
+
 * 任务创建
-![img_2.png](img_2.png)
+![image](https://github.com/user-attachments/assets/abcad4f3-2b5b-4040-9048-8c128b17e553)
+
 * 日志信息查看
-![img_3.png](img_3.png)
+![image](https://github.com/user-attachments/assets/d95f2876-e41a-4c04-aae5-86f56a86dbf4)
+
 
 ### Maven Parent overrides
 
